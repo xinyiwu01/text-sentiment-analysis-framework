@@ -1,0 +1,5 @@
+# List of data plugins to be registered by framework.
+# Provide fully qualified class names here ( com.andrewgrey.visualizationPlugin.XXX ),
+# with one plugin per line.
+com.andrewgrey.visualizationPlugin.HeatMapPlugin
+com.andrewgrey.visualizationPlugin.TimeSeriesPlugin

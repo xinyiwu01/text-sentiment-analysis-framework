@@ -1,0 +1,5 @@
+# List of data plugins to be registered by framework.
+# Provide fully qualified class names here ( com.andrewgrey.dataPlugin.XXX ),
+# with one plugin per line.
+com.andrewgrey.dataPlugin.TwitterPlugin
+com.andrewgrey.dataPlugin.YoutubePlugin
